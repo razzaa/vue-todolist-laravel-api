@@ -8,9 +8,9 @@
 </p>
 
 ## Setup
-1- composer install
+1- `composer install`
 
-2- cp .env.example .env
+2- `cp .env.example .env`
 
-3- php artisan key:generate
+3- `php artisan key:generate`
 
