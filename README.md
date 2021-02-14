@@ -14,3 +14,5 @@
 
 3- `php artisan key:generate`
 
+4- `npm install`
+
