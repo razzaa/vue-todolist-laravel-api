@@ -9,7 +9,9 @@
 </head>
 <body>
     <div class="w-screen h-screen bg-gray-900">
-        
+        <div id="app">
+            <example-component />
+        </div>
     </div>
 </body>
 </html>
