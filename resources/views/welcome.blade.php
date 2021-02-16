@@ -8,9 +8,9 @@
     @include('layouts.app')
 </head>
 <body>
-    <div class="w-screen h-screen bg-gray-900">
+    <div class="">
         <div id="app">
-            <example-component />
+            <app />
         </div>
     </div>
 </body>
